@@ -1,0 +1,331 @@
+ header {
+     padding-left: 70px;
+     padding-right: 32px;
+     background: #f1f1f1;
+     line-height: 30px;
+ }
+ .header-left li {
+     float: left;
+     margin-right: 10px;
+     line-height: 30px;
+     color: #767676;
+ }
+ .header-left a {
+     display: block;
+     padding-right: 16px;
+     background: no-repeat url(../images/headerbg.png) 28px 12px;
+ }
+ .header-right li {
+     float: left;
+     line-height: 30px;
+     padding-left: 10px;
+     color: #767676;
+ }
+ .header-right a {
+     display: block;
+ }
+ .header-right a {
+     display: block;
+ }
+ .header-right .fc1 {
+     padding-left: 8px;
+ }
+ .header-right .fc2 {
+     padding-left: 13px;
+ }
+ .header-right .afc1 {
+     padding-right: 19px;
+     background: no-repeat url(../images/headerbg.png) 53px 13px;
+ }
+ .header-right .afc3 {
+     padding-right: 19px;
+     background: no-repeat url(../images/headerbg.png) 53px 13px;
+ }
+ .header-right .afc4 {
+     padding-right: 19px;
+     background: no-repeat url(../images/headerbg.png) 53px 13px;
+ }
+ .header-right .afc5 {
+     padding-right: 19px;
+     background: no-repeat url(../images/headerbg.png) 53px 13px;
+ }
+ .header-right .fc3 {
+     padding-left: 27px;
+     background: no-repeat url(../images/headerbg.png) 11px -10px;
+ }
+ .header-right .afc2 {
+     padding-right: 18px;
+     background: no-repeat url(../images/headerbg.png) 55px 13px;
+ }
+ .two {
+     width: 1421px;
+     height: 101px;
+     background: no-repeat url(../images/20.png) 107px 26px;
+     position: relative;
+ }
+ .two1 {
+     position: absolute;
+     display: block;
+     left: 468px;
+     top: 26px;
+     width: 455px;
+     height: 36px;
+     border: 2px solid #b1191a;
+ }
+ .two11 {
+     position: absolute;
+     display: block;
+     left: 922px;
+     top: 26px;
+     width: 56px;
+     line-height: 36px;
+     background: #b1191a;
+     padding-left: 25px;
+     font-size: 15px;
+     color: #ffffff;
+ }
+ .two2 {
+     position: absolute;
+     display: block;
+     left: 1107px;
+     top: 26px;
+     width: 138px;
+     height: 34px;
+     background: #f9f9f9;
+     border: 1px solid #dfdfdf;
+ }
+ .two21 {
+     padding-left: 19px;
+     padding-top: 10px;
+ }
+ .three {
+     width: 1421px;
+     height: 44px;
+     border-bottom: 2px solid #b1191a;
+     position: relative;
+ }
+ .three1 {
+     float: left;
+     padding-left: 107px;
+ }
+ .three11 {
+     display: block;
+     background: #b1191a;
+     width: 209px;
+     line-height: 44px;
+     color: #ffffff;
+     padding-left: 15px;
+ }
+ .three12 {
+     position: absolute;
+     left: 325px;
+     top: 18px;
+ }
+ .three1 li {
+     padding-left: 40px;
+     float: left;
+     line-height: 46px;
+     font-size: 16px;
+     color: #333333;
+ }
+ .three1 .three21 {
+     padding-left: 22px;
+ }
+ .four {
+     position: relative;
+     width: 1421px;
+     height: 140px;
+     background: #f5f5f5;
+ }
+ .four1 {
+     position: absolute;
+     left: 105px;
+     top: 19px;
+ }
+ .four2 {
+     position: absolute;
+     left: 105px;
+     top: 66px;
+ }
+ .four3 {
+     position: absolute;
+     right: 290px;
+     top: 94px;
+ }
+ .four4 {
+     position: absolute;
+     right: 105px;
+     top: 94px;
+ }
+ .Five {
+     width: 1421px;
+     height: 682px;
+     position: relative;
+     margin-left: 30px;
+ }
+ .five1 {
+     position: absolute;
+     top: 20px;
+     left: 50px;
+     font-size: 14px;
+     font-weight: bold;
+     color: black;
+ }
+ .five12 {
+     position: absolute;
+     left: 1200px;
+     top: 36px;
+ }
+ .five2 {
+     position: absolute;
+     left: 103px;
+     top: 50px;
+ }
+ .five20, .five21, .five22, .five23, .five24, .five25, .five26, .five27, .five28, .five29 {
+     float: left;
+     width: 219px;
+     height: 310px;
+     border: 1px solid #cacaca;
+     padding-left: 20px;
+ }
+ .Six {
+     width: 1421px;
+     height: 353px;
+     margin-left: 30px;
+     position: relative;
+ }
+ .six1 {
+     position: absolute;
+     top: 20px;
+     left: 100px;
+     font-size: 14px;
+     font-weight: bold;
+     color: black;
+ }
+ .six12 {
+     position: absolute;
+     left: 1250px;
+     top: 36px;
+ }
+ .six2 {
+     position: absolute;
+     left: 103px;
+     top: 53px;
+ }
+ .six20, .six21, .six22, .six23, .six24 {
+     float: left;
+     width: 240px;
+     height: 310px;
+     border: 1px solid #cacaca;
+     padding-left: 13px;
+ }
+ .Seven {
+     width: 1421px;
+     height: 286px;
+     margin-left: 30px;
+     position: relative;
+ }
+ .seven1 {
+     position: absolute;
+     left: 103px;
+     top: 20px;
+     font-size: 14px;
+     font-weight: bold;
+     padding-top: 25px;
+     color: black;
+ }
+ .seven2 {
+     position: absolute;
+     left: 90px;
+     top: 70px;
+ }
+ .seven21, .seven22, .seven23, .seven24 {
+     float: left;
+     width: 285px;
+     height: 242px;
+     border-radius: 5%;
+     border: 2px solid #cacaca;
+     margin-left: 15px;
+ }
+ .seven211 {
+     margin-left: 45px;
+ }
+ .eight {
+     width: 1421px;
+     height: 320px;
+     border-bottom: 2px dashed gray;
+     position: relative;
+ }
+ .eight1 {
+     position: absolute;
+     left: 25px;
+     top: 50px;
+ }
+ .eight2{
+   position: absolute;
+   left:250px;
+   top:160px;
+ }
+ .eight21, .eight22, .eight23, .eight24, .eight25{
+
+
+  float: left;
+  margin-left:80px;
+
+
+
+ }
+  .eight211, .eight221, .eight231, .eight241, .eight251{
+    font-size: 20px;
+
+
+
+  }
+  .eight21 li, .eight22 li, .eight23 li, .eight24 li, .eight25 li{
+
+    margin-top: 5px;
+
+  }
+  .E1{
+    color: black;
+  }
+ .nine {
+
+     width: 1421px;
+     height: 48px;
+     position: relative;
+ }
+ .nine1 {
+   float: left;
+     position: absolute;
+     left: 300px;
+     top: 10px;
+ }
+ .nine11 {
+     padding-left: 11px;
+     padding-right: 9px;
+     margin-top: 9px;
+     font-weight: bold;
+     color: black;
+ }
+ .ten {
+     width: 1421px;
+     height: 293px;
+     position: relative;
+ }
+ .ten1 {
+     position: absolute;
+     left: 294px;
+     top: 0px;
+ }
+ .eleven {
+     position: relative;
+ }
+ .eleven1 {
+     position: absolute;
+     left: 350px;
+     top: -200px;
+ }
+ .e1, .e2, .e3, .e4, .e5, .e6 {
+     margin-left: 20px;
+ }

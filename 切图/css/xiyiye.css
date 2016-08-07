@@ -1,0 +1,235 @@
+ header{
+
+     
+
+      padding-left: 70px;
+
+      padding-right: 32px;
+
+      background: #f1f1f1;
+
+      line-height: 30px;
+
+
+
+    }
+
+   .header-left li{
+
+     float: left;
+
+     margin-right:10px;
+
+     line-height: 30px; 
+
+     color:#767676;
+
+
+   }
+
+    .header-left a{
+
+      display: block;
+
+      padding-right: 16px;
+
+    background: no-repeat url(../images/headerbg.png) 28px 12px; 
+
+
+
+    }
+
+    .header-right li{
+
+     float: left;
+
+     line-height: 30px;
+      padding-left: 10px;
+      color:#767676;
+
+     }
+
+     .header-right a{
+
+    
+
+     display: block;
+
+
+     }
+
+     
+   .header-right a{
+
+     display: block;
+
+   }
+
+    .header-right .fc1{
+ 
+       padding-left: 8px;
+
+
+     }
+  .header-right .fc2{
+ 
+       padding-left: 13px;
+
+
+     }
+   .header-right  .afc1 {
+
+
+     padding-right: 19px;
+
+
+     background: no-repeat url(../images/headerbg.png) 53px 13px;
+
+
+   }
+.header-right  .afc3 {
+
+
+     padding-right: 19px;
+
+
+     background: no-repeat url(../images/headerbg.png) 53px 13px;
+
+
+   }
+   .header-right  .afc4 {
+
+
+     padding-right: 19px;
+
+
+     background: no-repeat url(../images/headerbg.png) 53px 13px;
+
+
+   }
+   .header-right  .afc5 {
+
+
+     padding-right: 19px;
+
+
+     background: no-repeat url(../images/headerbg.png) 53px 13px;
+
+
+   }
+    .header-right .fc3{
+
+      padding-left: 27px;
+
+      background: no-repeat url(../images/headerbg.png) 11px -10px;
+
+
+
+    }
+
+    .header-right .afc2{
+
+      padding-right: 18px;
+
+      background: no-repeat url(../images/headerbg.png) 55px 13px;
+
+
+    }
+
+
+    .two{
+        width: 1421px;
+        height: 101px;
+        background:no-repeat url(../images/20.png) 107px 26px;
+        position: relative;
+        
+
+    }
+    .two1{
+      position: absolute;
+      display: block;
+      left: 468px;
+      top: 26px;
+       width: 455px;
+       height: 36px;
+       border: 2px solid #b1191a;
+
+    }
+    .two11{
+      position: absolute;
+      display: block;
+      left: 922px;
+      top: 26px;
+      width: 56px;
+      line-height: 38px;
+      background: #b1191a;
+      padding-left: 25px;
+      font-size: 15px;
+      color: #ffffff;
+    }
+    .two2{
+      position: absolute;
+      display: block;
+      left: 1107px;
+      top: 26px;
+      width: 138px;
+      height: 34px;
+      background: #f9f9f9;
+      border: 1px solid #dfdfdf;
+     
+      
+
+    }
+    .two21{
+      padding-left: 19px;
+      padding-top: 10px;
+    }
+    
+
+    
+
+    
+
+
+
+
+     .three{
+      width: 1421px;
+      height: 44px;
+      border-bottom: 2px solid #b1191a;
+     
+     }
+    .three1{
+      float: left;
+      padding-left: 107px;
+
+    }
+    .three11{
+      display: block;
+      background: #b1191a;
+      width: 209px;
+      line-height: 44px;
+      color:#ffffff;
+      padding-left: 15px;
+
+    }
+   
+    .three1 li{
+      padding-left: 40px;
+      float: left;
+      line-height: 46px;
+      font-size: 16px;
+      color: #333333;
+    }
+    .three1 .three21{
+      padding-left: 22px;
+    }
+
+
+
+  .xfour{
+    width: 1415px;
+    height: 752px;
+    background: #f2f2f2;
+
+  }
